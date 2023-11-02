@@ -7,3 +7,4 @@ The common way to exit multiple cursors is also pressing the escape key.
 
 To be sure to exit the multiple cursors, I tend to press the escape key even if I'm not in multiple cursor, resulting in exiting the editor.
 
+We may restrict the escape key behaviour to file browser and not in the editor.
