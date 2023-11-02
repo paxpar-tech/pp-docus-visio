@@ -1,5 +1,8 @@
-# $schema transform
+# JSON schema
 
+See also JSON-schema ([related to Nuxt studio](/nuxt_studio/json_schema)):
+
+## $schema transform
 
 When defining a [new content transformer](https://content.nuxt.com/recipes/transformers)
 we tell which extensions are involved.

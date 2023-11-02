@@ -1,6 +1,6 @@
 # JSON-schema
 
-Many features related to JSON-schema :
+Many features related to JSON-schema ([some related to docus](/docus/json_schema)):
 
 ## YAML file linter
 
