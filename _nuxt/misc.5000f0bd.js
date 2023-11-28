@@ -1,0 +1,1 @@
+import{k as n,b as t,c,F as l,e}from"./entry.558da846.js";const o={},s=e("h1",null,"misc",-1),_=e("ul",null,[e("li",null,"Permanently delete my account"),e("li",null,"RGPD request")],-1);function a(r,u){return t(),c(l,null,[s,_],64)}const i=n(o,[["render",a]]);export{i as default};

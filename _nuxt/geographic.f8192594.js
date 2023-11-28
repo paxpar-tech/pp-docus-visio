@@ -1,0 +1,1 @@
+import{_ as o}from"./factice.vue.18962460.js";import{k as c,b as n,c as a,e,D as r,g as s,F as _}from"./entry.558da846.js";const m=""+new URL("geographic.ba4d2908.svg",import.meta.url).href,p={},i=e("img",{src:m},null,-1);function l(f,d){const t=o;return n(),a(_,null,[e("p",null,[r("Geo view"),s(t)]),i],64)}const x=c(p,[["render",l]]);export{x as default};

@@ -1,0 +1,1 @@
+import{_ as t}from"./factice.vue.18962460.js";import{k as c,b as n,c as s,e,D as r,g as _,F as a}from"./entry.558da846.js";const m=""+new URL("notebook.df93ecc7.svg",import.meta.url).href,p={},f=e("img",{src:m},null,-1);function i(l,d){const o=t;return n(),s(a,null,[e("p",null,[r("Notebook view"),_(o)]),f],64)}const x=c(p,[["render",i]]);export{x as default};

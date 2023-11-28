@@ -1,0 +1,1 @@
+const s={checklist:{icon_default:"codicon:symbol-field",icon_size:"32",status:{OK:{icon:"mdi:shield-check",hue:120},KO:{icon:"mdi:shield-alert",hue:0},WARNING:{icon:"mdi:alert",hue:39},INFO:{icon:"mdi:information",hue:240}}}};function t(e,i){return i?`hsla(${e},20%,50%,0.2)`:`hsla(${e},70%,50%,0.9)`}export{t as s,s as t};

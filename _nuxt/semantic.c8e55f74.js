@@ -1,0 +1,1 @@
+import{k as e,b as t,c}from"./entry.558da846.js";const n=""+new URL("semantic.75da3604.svg",import.meta.url).href,o={},r={src:n};function s(_,a){return t(),c("img",r)}const i=e(o,[["render",s]]);export{i as default};

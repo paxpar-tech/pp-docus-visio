@@ -1,0 +1,27 @@
+:root {
+    --scroll: 0; /* default */
+}
+
+.scroll-section {
+    height: 100vh;
+    background-color: green;
+}
+
+.scroll-tracker {
+    height: .5rem;
+    background-color: blue;
+    position: fixed;
+    inset: 0 0 auto;
+    transform-origin: left;
+}
+
+
+.background-anim {
+    height: 300px;
+    width: 300px;
+    background-color: yellow;
+    position: sticky;
+    top: 50px;
+    translate: 50% 50%;
+}
+
