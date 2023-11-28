@@ -1,0 +1,2 @@
+[install.scopes]
+"@arundo-tech" = { token = "$ARUNDO_NPM_REGISTRY_TOKEN", url = "https://gitlab.com/api/v4/projects/45237886/packages/npm/" }

@@ -11,8 +11,8 @@
     "upgrade": "npx npm-check-updates -i -p bun"
   },
   "devDependencies": {
-    "@arundo-tech/paxpar-widgets": "2.7.78",
-    "@nuxt/devtools": "1.0.3",
+    "@arundo-tech/paxpar-widgets": "2.8.0",
+    "@nuxt/devtools": "1.0.4",
     "@nuxthq/studio": "1.0.5"
   }
 }
