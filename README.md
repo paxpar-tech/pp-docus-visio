@@ -1,6 +1,9 @@
 # Docus Starter
 
-Starter template for [Docus](https://docus.dev).
+Starter template for [Docus](https://docus.dev)
+
+deployed on https://paxpar-tech-pp-docus-visio.nuxt.space/
+
 
 ## Clone
 
