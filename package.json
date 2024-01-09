@@ -13,6 +13,6 @@
   "devDependencies": {
     "@arundo-tech/paxpar-widgets": "2.8.0",
     "@nuxt/devtools": "1.0.4",
-    "@nuxthq/studio": "1.0.5"
+    "@nuxthq/studio": "1.0.6"
   }
 }
